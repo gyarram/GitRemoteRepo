@@ -3,5 +3,5 @@ Commit 1 from LocalBranch
 Commit 1 from OnlineBranch
 Commit 2 from LocalBranch
 Commit 3 from LocalBranch
-Commit 4 from LocalBranch
 Commit 2 from OnlineBranch --- New line added online
+Commit 4 from LocalBranch -- New line added from Local
